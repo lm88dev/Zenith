@@ -1,6 +1,6 @@
 .hvigor/
 
-local.properties
+.local.properties
 
 oh_modules/
 node_modules/
