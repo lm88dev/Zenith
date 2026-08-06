@@ -1,0 +1,10 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Real-Time Satellite Tracker & Orbital Pass Visualizer Entry Module",
+  "main": "src/main/ets/pages/Index.ets",
+  "author": "Lorenzo Munarin",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

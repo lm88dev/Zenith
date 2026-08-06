@@ -1,0 +1,13 @@
+.hvigor/
+
+local.properties
+
+oh_modules/
+node_modules/
+
+*.p12
+*.jks
+*.pem
+*.cer
+*.crt
+*.p7b

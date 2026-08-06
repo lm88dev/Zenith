@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Zenith Entry Module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Zenith Main Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Zenith"
+    }
+  ]
+}
